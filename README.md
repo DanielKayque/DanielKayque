@@ -40,8 +40,6 @@ Também aprofundo meus conhecimentos em backend com Java, Spring Boot, Spring Se
 <div align="center">
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DanielKayque&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielKayque&layout=compact&langs_count=8&theme=tokyonight" />
-<br />
 <img src="https://streak-stats.demolab.com?user=DanielKayque&theme=tokyonight&hide_border=false" />
 
 </div>
